@@ -27,15 +27,15 @@
             "id": "https://observodrive.github.io/observodrive.html",
             "url": "https://observodrive.github.io/observodrive.html",
             "title": "ObservoDrive",
-            "summary": "&lt;script defer data-domain=\"observodrive.github.io\" src=\"https://plausible.io/js/script.js\"&gt;&lt;/script&gt; ObservoDrive",
-            "content_html": "<pre class=\"language-html\"><code>&lt;script defer data-domain=\"observodrive.github.io\" src=\"https://plausible.io/js/script.js\"&gt;&lt;/script&gt;</code></pre>\n<p> </p>\n<p>ObservoDrive<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://observodrive.github.io/media/posts/1/logo-definitif.png\" alt=\"ObservoDrive Logo\" width=\"800\" height=\"600\" sizes=\"(min-width: 37.5em) 1600px, 80vw\" srcset=\"https://observodrive.github.io/media/posts/1/responsive/logo-definitif-xs.png 384w ,https://observodrive.github.io/media/posts/1/responsive/logo-definitif-sm.png 600w ,https://observodrive.github.io/media/posts/1/responsive/logo-definitif-md.png 768w ,https://observodrive.github.io/media/posts/1/responsive/logo-definitif-lg.png 1200w ,https://observodrive.github.io/media/posts/1/responsive/logo-definitif-xl.png 1600w\"></figure>",
+            "summary": "ObservoDrive",
+            "content_html": "<p>\n<script defer=\"defer\" data-domain=\"observodrive.github.io\" src=\"https://plausible.io/js/script.js\"></script>\n</p>\n<p> </p>\n<p>ObservoDrive<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://observodrive.github.io/media/posts/1/logo-definitif.png\" alt=\"ObservoDrive Logo\" width=\"800\" height=\"600\" sizes=\"(min-width: 37.5em) 1600px, 80vw\" srcset=\"https://observodrive.github.io/media/posts/1/responsive/logo-definitif-xs.png 384w ,https://observodrive.github.io/media/posts/1/responsive/logo-definitif-sm.png 600w ,https://observodrive.github.io/media/posts/1/responsive/logo-definitif-md.png 768w ,https://observodrive.github.io/media/posts/1/responsive/logo-definitif-lg.png 1200w ,https://observodrive.github.io/media/posts/1/responsive/logo-definitif-xl.png 1600w\"></figure>",
             "author": {
                 "name": "RG"
             },
             "tags": [
             ],
             "date_published": "2023-11-27T18:35:42+01:00",
-            "date_modified": "2023-11-27T21:56:51+01:00"
+            "date_modified": "2023-11-27T21:59:16+01:00"
         }
     ]
 }
