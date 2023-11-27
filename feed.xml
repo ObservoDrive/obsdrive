@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Management</title>
+    <link href="https://observodrive.github.io/obsdrive/feed.xml" rel="self" />
+    <link href="https://observodrive.github.io/obsdrive" />
+    <updated>2023-11-27T18:36:03+01:00</updated>
+    <author>
+        <name>Raphaël Gonçalves</name>
+    </author>
+    <id>https://observodrive.github.io/obsdrive</id>
+
+    <entry>
+        <title>Post</title>
+        <author>
+            <name>Raphaël Gonçalves</name>
+        </author>
+        <link href="https://observodrive.github.io/obsdrive/post.html"/>
+        <id>https://observodrive.github.io/obsdrive/post.html</id>
+
+        <updated>2023-11-27T18:36:03+01:00</updated>
+            <summary>
+                <![CDATA[
+                    My new post.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>My new post.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>ObservoDrive</title>
+        <author>
+            <name>Raphaël Gonçalves</name>
+        </author>
+        <link href="https://observodrive.github.io/obsdrive/observodrive.html"/>
+        <id>https://observodrive.github.io/obsdrive/observodrive.html</id>
+
+        <updated>2023-11-27T18:35:42+01:00</updated>
+            <summary>
+                <![CDATA[
+                    ObservoDrive
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>ObservoDrive<figure class="post__image"><img loading="lazy"  src="https://observodrive.github.io/obsdrive/media/posts/1/logo-definitif.png" alt="ObservoDrive Logo" width="800" height="600" sizes="100vw" srcset="https://observodrive.github.io/obsdrive/media/posts/1/responsive/logo-definitif-xs.png 300w ,https://observodrive.github.io/obsdrive/media/posts/1/responsive/logo-definitif-sm.png 480w ,https://observodrive.github.io/obsdrive/media/posts/1/responsive/logo-definitif-md.png 768w ,https://observodrive.github.io/obsdrive/media/posts/1/responsive/logo-definitif-lg.png 1024w ,https://observodrive.github.io/obsdrive/media/posts/1/responsive/logo-definitif-xl.png 1360w ,https://observodrive.github.io/obsdrive/media/posts/1/responsive/logo-definitif-2xl.png 1600w"></figure>
+            ]]>
+        </content>
+    </entry>
+</feed>
