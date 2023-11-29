@@ -3,12 +3,24 @@
     <title>Management</title>
     <link href="https://observodrive.github.io/feed.xml" rel="self" />
     <link href="https://observodrive.github.io" />
-    <updated>2023-11-29T01:12:27+01:00</updated>
+    <updated>2023-11-29T01:15:55+01:00</updated>
     <author>
         <name>ObservoDrive Team</name>
     </author>
     <id>https://observodrive.github.io</id>
 
+    <entry>
+        <title>POLITIQUE DE CONFIDENTIALITÉ</title>
+        <author>
+            <name>ObservoDrive Team</name>
+        </author>
+        <link href="https://observodrive.github.io/politique-de-confidentialite.html"/>
+        <id>https://observodrive.github.io/politique-de-confidentialite.html</id>
+
+        <updated>2023-11-29T01:14:27+01:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
     <entry>
         <title>ObservoDrive: CLEF USB-PROJECTEUR</title>
         <author>
@@ -17,7 +29,7 @@
         <link href="https://observodrive.github.io/observodrive-clef-usb-projecteur.html"/>
         <id>https://observodrive.github.io/observodrive-clef-usb-projecteur.html</id>
 
-        <updated>2023-11-29T01:12:27+01:00</updated>
+        <updated>2023-11-29T01:15:55+01:00</updated>
             <summary>
                 <![CDATA[
                     EFFICACITÉ: DOUBLÉE. Travaillez deux fois plus vite, grâce à notre clef USB-projecteur. Disponible en 3 modèles abordables avec un adaptateur&hellip;
@@ -46,7 +58,7 @@
 <figure class="detail__media__img-highres  js-detail-img  js-detail-img-high"><img loading="lazy"  src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fteachonline.ca%2Fsites%2Fdefault%2Ffiles%2Fwebinar-page-1100x550-41_0.jpg&amp;f=1&amp;nofb=1&amp;ipt=4afbe4e1ad22161b73af4edf02ed81f643154fe443292838b79697c80dd81a82&amp;ipo=images" alt="How to Keep Zoom Classes Secure and Private | Welcome to TeachOnline" data-is-external-image="true"></figure>
 <h1>RESPECT DE LA CONFIDENTIALITÉ: UNE PRIORITÉ ESSENTIELLE POUR NOUS</h1>
 <p class="msg msg--highlight ">Nous vendons aucunes données récupérées sur vous. Les cookies sur ce site peuvent être facilement refusées et servent uniquement à des fins analytiques pour vous offrir une meilleure expérience.</p>
-<figure class="wp-image-162"><img  title="" src="https://www.privacytech.fr/wp-content/uploads/internal_security.png" sizes="(max-width: 587px) 100vw, 587px" srcset="https://www.privacytech.fr/wp-content/uploads/internal_security.png 587w, https://www.privacytech.fr/wp-content/uploads/internal_security-300x294.png 300w" alt="" width="325" height="318" data-is-external-image="true"></figure><figure class="wp-image-134"><img loading="lazy"  title="" src="https://www.privacytech.fr/wp-content/uploads/audience_measurement.png" sizes="(max-width: 587px) 100vw, 587px" srcset="https://www.privacytech.fr/wp-content/uploads/audience_measurement.png 587w, https://www.privacytech.fr/wp-content/uploads/audience_measurement-300x294.png 300w" alt="" width="325" height="318" data-is-external-image="true"></figure>
+<figure class="wp-image-162"><img  title="" src="https://www.privacytech.fr/wp-content/uploads/internal_security.png" sizes="(max-width: 587px) 100vw, 587px" srcset="https://www.privacytech.fr/wp-content/uploads/internal_security.png 587w, https://www.privacytech.fr/wp-content/uploads/internal_security-300x294.png 300w" alt="" width="300" height="294" data-is-external-image="true"></figure><figure class="wp-image-134"><img loading="lazy"  title="" src="https://www.privacytech.fr/wp-content/uploads/audience_measurement.png" sizes="(max-width: 587px) 100vw, 587px" srcset="https://www.privacytech.fr/wp-content/uploads/audience_measurement.png 587w, https://www.privacytech.fr/wp-content/uploads/audience_measurement-300x294.png 300w" alt="" width="300" height="294" data-is-external-image="true"></figure>
 <p class="msg msg--info">Vous souhaitez en savoir plus? Visitez notre politique de confidentialité.</p>
             ]]>
         </content>
