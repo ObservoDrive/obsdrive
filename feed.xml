@@ -3,12 +3,33 @@
     <title>Management</title>
     <link href="https://observodrive.github.io/feed.xml" rel="self" />
     <link href="https://observodrive.github.io" />
-    <updated>2023-11-29T01:53:59+01:00</updated>
+    <updated>2023-11-29T01:56:42+01:00</updated>
     <author>
         <name>ObservoDrive Team</name>
     </author>
     <id>https://observodrive.github.io</id>
 
+    <entry>
+        <title>CONTACT</title>
+        <author>
+            <name>ObservoDrive Team</name>
+        </author>
+        <link href="https://observodrive.github.io/contact.html"/>
+        <id>https://observodrive.github.io/contact.html</id>
+
+        <updated>2023-11-29T01:55:38+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Des questions? Besoin d'aide? Nous sommes là pour vous, si vous avez besoin de quoi que ce soit, contactez nous&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Des questions? Besoin d'aide? Nous sommes là pour vous, si vous avez besoin de quoi que ce soit, contactez nous à l'adresse suivante:</p>
+<p>observodrive@mailfence.com</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>POLITIQUE DE CONFIDENTIALITÉ</title>
         <author>
@@ -45,7 +66,7 @@
         <link href="https://observodrive.github.io/observodrive-clef-usb-projecteur.html"/>
         <id>https://observodrive.github.io/observodrive-clef-usb-projecteur.html</id>
 
-        <updated>2023-11-29T01:53:59+01:00</updated>
+        <updated>2023-11-29T01:56:42+01:00</updated>
             <summary>
                 <![CDATA[
                     EFFICACITÉ: DOUBLÉE. Travaillez deux fois plus vite, grâce à notre clef USB-projecteur. Disponible en 3 modèles abordables avec un adaptateur&hellip;
@@ -59,7 +80,7 @@
 <h3 style="display: inline !important;"> </h3>
 <h3 style="display: inline !important;"> </h3>
 <p class="msg msg--highlight ">Travaillez deux fois plus vite, grâce à notre clef USB-projecteur. </p>
-<figure class="css-6ebtad e2hw8j90"><img loading="lazy" id="expanded-image"  tabindex="0" role="img" src="https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fpngimg.com%2Fuploads%2Flightning%2Flightning_PNG52.png&amp;sp=1701209090T36f7dfd6e5409a4e73e2e1d3779819279c6f970a5fbe7a0ee93d4b83111791aa" alt="24 Lightning Icon Png - Logo Icon Source" aria-label="24 Lightning Icon Png - Logo Icon Source" data-is-external-image="true"></figure>
+<figure class="css-6ebtad e2hw8j90"><img loading="lazy" id="expanded-image"  tabindex="0" role="img" src="https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fpngimg.com%2Fuploads%2Flightning%2Flightning_PNG52.png&amp;sp=1701209090T36f7dfd6e5409a4e73e2e1d3779819279c6f970a5fbe7a0ee93d4b83111791aa" alt="24 Lightning Icon Png - Logo Icon Source" width="696" height="661" aria-label="24 Lightning Icon Png - Logo Icon Source" data-is-external-image="true"></figure>
 <hr>
 <h1>16GO, 32GO OU 64GO: NOUS AVONS CE QUE VOUS VOULEZ.</h1>
 <p class="msg msg--highlight ">Disponible en 3 modèles abordables avec un adaptateur optionnel USB-A vers USB-C de 6.49€, nous répondons à tous vos besoins.</p>
