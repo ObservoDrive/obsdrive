@@ -3,58 +3,71 @@
     <title>Management</title>
     <link href="https://observodrive.github.io/feed.xml" rel="self" />
     <link href="https://observodrive.github.io" />
-    <updated>2023-11-29T02:00:10+01:00</updated>
+    <updated>2023-11-29T02:28:49+01:00</updated>
     <author>
         <name>ObservoDrive Team</name>
     </author>
     <id>https://observodrive.github.io</id>
 
     <entry>
-        <title>CONTACT</title>
+        <title>PAGE TWITTER ET INSTAGRAM</title>
         <author>
             <name>ObservoDrive Team</name>
         </author>
-        <link href="https://observodrive.github.io/contact.html"/>
-        <id>https://observodrive.github.io/contact.html</id>
+        <link href="https://observodrive.github.io/page-twitter-et-instagram/"/>
+        <id>https://observodrive.github.io/page-twitter-et-instagram/</id>
 
-        <updated>2023-11-29T01:55:38+01:00</updated>
+        <updated>2023-11-29T02:22:55+01:00</updated>
             <summary>
                 <![CDATA[
-                    Des questions? Besoin d'aide? Nous sommes là pour vous, si vous avez besoin de quoi que ce soit, contactez nous&hellip;
+                    ObservoDrive a sa page Twitter ( X ) et Instagram, allez nous suivre sur ces résaux sociaux!
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>Des questions? Besoin d'aide? Nous sommes là pour vous, si vous avez besoin de quoi que ce soit, contactez nous à l'adresse suivante:</p>
-<p>observodrive@mailfence.com</p>
+                <p>ObservoDrive a sa page <a href="twitter.com/observodrive">Twitter ( X )</a> et <a href="https://instagram.com/observodrive">Instagram</a>, allez nous suivre sur ces résaux sociaux!</p>
             ]]>
         </content>
     </entry>
     <entry>
-        <title>POLITIQUE DE CONFIDENTIALITÉ</title>
+        <title>CRÉATION DU SITE</title>
         <author>
             <name>ObservoDrive Team</name>
         </author>
-        <link href="https://observodrive.github.io/politique-de-confidentialite.html"/>
-        <id>https://observodrive.github.io/politique-de-confidentialite.html</id>
+        <link href="https://observodrive.github.io/creation-du-site/"/>
+        <id>https://observodrive.github.io/creation-du-site/</id>
 
-        <updated>2023-11-29T01:58:16+01:00</updated>
+        <updated>2023-11-29T02:28:49+01:00</updated>
             <summary>
                 <![CDATA[
-                    ObservoDrive ("Nous") collecte des données sur l'utilisateur. Vous pouvez en apprendre plus ci-dessous. Nous collectons des données analytiques sur notre&hellip;
+                    Le site a enfin été crée! Il a été fait en utilisant le CMS "Publii".
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>ObservoDrive ("Nous") collecte des données sur l'utilisateur. Vous pouvez en apprendre plus ci-dessous.<br><br><br></p>
-<h1>1. Que collectons nous?</h1>
+                <p>Le site a enfin été crée! Il a été fait en utilisant le CMS "Publii".</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>BLOG</title>
+        <author>
+            <name>ObservoDrive Team</name>
+        </author>
+        <link href="https://observodrive.github.io/blog/"/>
+        <id>https://observodrive.github.io/blog/</id>
+
+        <updated>2023-11-29T02:23:28+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Page Twitter et Instagram Création du site
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><a href="https://observodrive.github.io/creation-du-site/">Page Twitter et Instagram</a></p>
 <p> </p>
-<p>Nous collectons des données analytiques sur notre site web et notre application iOS et Android (sous forme de "cookies" par exemple, des petits fichiers texte stockés sur votre appareil).<br><br></p>
-<h2>2. Comment sont utilisés ces données?</h2>
-<p><br>Ces données nous permettent de compter les visites, les sources de trafic, ou les rapports de crash dans le cas de l'application mobile, afin de mesurer et d'améliorer les performances de notre produit. Ces informations, nous permettent de savoir quelles sont les pages les plus et les moins populaires et de voir comment les visiteurs se déplacent sur le site ou sur l'application.</p>
-<p> </p>
-<h3>3. Avec qui ces informations sont-elles partagées?</h3>
-<p><br>Ces informations sont partagés avec personne. Elles restent confidentielles et ne sont en aucun cas utilisées dans un but lucratif. </p>
+<p><a href="https://observodrive.github.io/creation-du-site/">Création du site</a></p>
             ]]>
         </content>
     </entry>
@@ -63,10 +76,10 @@
         <author>
             <name>ObservoDrive Team</name>
         </author>
-        <link href="https://observodrive.github.io/observodrive-clef-usb-projecteur.html"/>
-        <id>https://observodrive.github.io/observodrive-clef-usb-projecteur.html</id>
+        <link href="https://observodrive.github.io/observodrive-clef-usb-projecteur/"/>
+        <id>https://observodrive.github.io/observodrive-clef-usb-projecteur/</id>
 
-        <updated>2023-11-29T02:00:10+01:00</updated>
+        <updated>2023-11-29T02:28:05+01:00</updated>
             <summary>
                 <![CDATA[
                     EFFICACITÉ: DOUBLÉE. Travaillez deux fois plus vite, grâce à notre clef USB-projecteur. Disponible en 3 modèles abordables avec un adaptateur&hellip;
@@ -93,10 +106,12 @@
 <h1>SÉCURISÉ, ENCRYPTÉ, CHIFFRÉ...</h1>
 <p class="msg msg--highlight ">N'ayez pas d'inquitétude: personne − y compris nous − ne peut voir les fichiers que vous téléchargez vers l'application.</p>
 <figure class="detail__media__img-highres  js-detail-img  js-detail-img-high"><img loading="lazy"  src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fteachonline.ca%2Fsites%2Fdefault%2Ffiles%2Fwebinar-page-1100x550-41_0.jpg&amp;f=1&amp;nofb=1&amp;ipt=4afbe4e1ad22161b73af4edf02ed81f643154fe443292838b79697c80dd81a82&amp;ipo=images" alt="How to Keep Zoom Classes Secure and Private | Welcome to TeachOnline" data-is-external-image="true"></figure>
+<hr>
 <h1>RESPECT DE LA CONFIDENTIALITÉ: UNE PRIORITÉ ESSENTIELLE POUR NOUS.</h1>
 <p class="msg msg--highlight ">Nous vendons aucunes données récupérées sur vous. Les cookies sur ce site peuvent être facilement refusées et servent uniquement à des fins analytiques pour vous offrir une meilleure expérience.</p>
 <figure class="wp-image-162"><img  title="" src="https://www.privacytech.fr/wp-content/uploads/internal_security.png" sizes="(max-width: 587px) 100vw, 587px" srcset="https://www.privacytech.fr/wp-content/uploads/internal_security.png 587w, https://www.privacytech.fr/wp-content/uploads/internal_security-300x294.png 300w" alt="" width="210" height="206" data-is-external-image="true"></figure><figure class="wp-image-134"><img loading="lazy"  title="" src="https://www.privacytech.fr/wp-content/uploads/audience_measurement.png" sizes="(max-width: 587px) 100vw, 587px" srcset="https://www.privacytech.fr/wp-content/uploads/audience_measurement.png 587w, https://www.privacytech.fr/wp-content/uploads/audience_measurement-300x294.png 300w" alt="" width="216" height="212" data-is-external-image="true"></figure>
-<p class="msg msg--info">Vous souhaitez en savoir plus? Visitez notre <a href="https://observodrive.github.io/politique-de-confidentialite.html" target="_blank" rel="noopener noreferrer">politique de confidentialité</a>.</p>
+<p class="msg msg--info">Vous souhaitez en savoir plus? Visitez notre <a href="https://observodrive.github.io/politique-de-confidentialite/" target="_blank" rel="noopener noreferrer">politique de confidentialité</a>.</p>
+<hr>
 <h1>POUR RÉSUMER:</h1>
 <p><span style="text-decoration: underline;">Prix mini. Données sécurisées. Facile d'utilisation. Adapté à plusieurs goûts. </span>ObservoDrive, c'est le choix <strong><span style="color: #000000;">idéal </span></strong>pour plusieurs profils, comme les hommes d'affaire, les professseurs, ...</p>
             ]]>
